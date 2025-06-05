@@ -44,6 +44,8 @@
 ### 📫 Contact Me
 - 📧 Email: [Abdelrahman.Alaa.Work@gmail.com](mailto:Abdelrahman.Alaa.Work@gmail.com)  
 - 📞 WhatsApp: [+201016624155](https://wa.me/201016624155)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abdelrahman-alaa.vercel.app/)
+- 📄 Know about my experiences [Resume](https://flowcv.com/resume/w5fumms1ieas)
 
 ---
 
@@ -58,11 +60,9 @@ I enjoy building things that people actually *see and use* – that’s why I lo
 
 - 💬 Ask me about **React.js, Next.js and Tailwind** 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://abdelrahman-alaa.vercel.app/)
 
 - 📫 You can reach me via [Email](mailto:Abdelrrahman.Alaa.Work@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://flowcv.com/resume/w5fumms1ieas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
