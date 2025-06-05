@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Abdelrahman Alaa Banner" />
+<img src="banner.png" alt="Abdelrahman Alaa - Front-End Developer and Voice Over Artist" />
 </p>
 
 <h1 align="center">Hi there, I'm Abdelrahman 👋</h1>
@@ -10,11 +10,11 @@
 ---
 
 ### 🚀 About Me 
-- 🎓 Self-taught Front-End Developer
-- 🎯 Focused on building clean and modern web interfaces
-- 🌱 Currently learning **React**, **Next.js**, and **Redux**
-- 🎤 Also a professional **Voice Over Artist**
-- 🏝️ Dreaming of working remotely and traveling the world
+- 🎓 Self-taught Front-End Developer  
+- 🎯 Passionate about clean, modern, and accessible web interfaces  
+- 🌱 Currently diving deep into **React**, **Next.js**, and **Redux**  
+- 🎤 Professional **Voice Over Artist**  
+- 🏝️ Remote work enthusiast & world traveler at heart  
 
 ---
 
@@ -37,16 +37,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrrahman-alaa&layout=compact" alt="Top Languages" width="33%" />
   <img src="https://github-readme-stats.vercel.app/api?username=abdelrrahman-alaa&show_icons=true" alt="GitHub Stats" width="33%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrrahman-alaa" alt="GitHub Streak" width="33%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrrahman-alaa" alt="GitHub Streak" width="33%"/>
 </p>
 
 ---
 
 ### 📫 Contact Me
+- 🖥️ Explore my work on my [Portfolio Website](https://abdelrahman-alaa.vercel.app/)
+- 📄 View my [Resume](https://flowcv.com/resume/w5fumms1ieas)
 - 📫 You can reach me via [Email](mailto:Abdelrrahman.Alaa.Work@gmail.com)
 - 📞 WhatsApp: [+201033485442](https://wa.me/201033485442)
-- 👨‍💻 All of my projects are available at [Portfolio](https://abdelrahman-alaa.vercel.app/)
-- 📄 Know about my experiences [Resume](https://flowcv.com/resume/w5fumms1ieas)
 
 ---
 
