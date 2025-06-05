@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React.js, Next.js and Tailwind**
 
-📫 You can reach me via [Email](mailto:Abdelrrahman.Alaa.Work@gmail.com)
+- 📫 You can reach me via [Email](mailto:Abdelrrahman.Alaa.Work@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://flowcv.com/resume/w5fumms1ieas)
 
