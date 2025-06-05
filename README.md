@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://abdelrahman-alaa.vercel.app/](https://abdelrahman-alaa.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abdelrahman-alaa.vercel.app/)
 
 - 💬 Ask me about **React.js, Next.js and Tailwind**
 
