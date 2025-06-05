@@ -2,7 +2,8 @@
   <img src="banner.png" alt="banner" />
 </p>
 
-<h3 align="center">Hi there! I'm Abdelrahman — a passionate Front-End Developer who loves building clean and interactive user interfaces 🌐✨</h3>
+<h1 align="center">Hi 👋, I'm Abdelrahman</h1>
+<h3 align="center">A passionate Frontend Developer from Egypt 🇪🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrrahman-alaa&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrrahman-alaa" /> </p>
 
