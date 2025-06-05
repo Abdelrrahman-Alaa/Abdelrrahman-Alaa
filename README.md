@@ -42,8 +42,8 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: [Abdelrahman.Alaa.Work@gmail.com](mailto:Abdelrahman.Alaa.Work@gmail.com)  
-- 📞 WhatsApp: [+201016624155](https://wa.me/201016624155)
+- 📫 You can reach me via [Email](mailto:Abdelrrahman.Alaa.Work@gmail.com)
+- 📞 WhatsApp: [+201033485442](https://wa.me/201033485442)
 - 👨‍💻 All of my projects are available at [Portfolio](https://abdelrahman-alaa.vercel.app/)
 - 📄 Know about my experiences [Resume](https://flowcv.com/resume/w5fumms1ieas)
 
@@ -53,15 +53,6 @@
 I enjoy building things that people actually *see and use* – that’s why I love front-end development. Oh, and coffee helps too. A lot. ☕😉
 
 
-
-<p align="left"> <a href="https://twitter.com/abdelrrahman_" target="blank"><img src="https://img.shields.io/twitter/follow/abdelrrahman_?logo=twitter&style=for-the-badge" alt="abdelrrahman_" /></a> </p>
-
-- 🌱 I’m currently learning **React.js**
-
-- 💬 Ask me about **React.js, Next.js and Tailwind** 
-
-
-- 📫 You can reach me via [Email](mailto:Abdelrrahman.Alaa.Work@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
