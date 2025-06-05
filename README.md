@@ -9,10 +9,8 @@
 
 ---
 
-### 🚀 About Me
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=abdelrrahman-alaa&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrrahman-alaa" /> </p>
-
-- 🎓 Self-taught Front-End Developer
+### 🚀 About Me 
+- 🎓 Self-taught Front-End Developer <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdelrrahman-alaa&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrrahman-alaa" /> </p>
 - 🎯 Focused on building clean and modern web interfaces
 - 🌱 Currently learning **React**, **Next.js**, and **Redux**
 - 🎤 Also a professional **Voice Over Artist**
