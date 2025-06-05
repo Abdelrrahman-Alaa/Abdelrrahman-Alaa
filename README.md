@@ -10,6 +10,8 @@
 ---
 
 ### 🚀 About Me
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abdelrrahman-alaa&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrrahman-alaa" /> </p>
+
 - 🎓 Self-taught Front-End Developer
 - 🎯 Focused on building clean and modern web interfaces
 - 🌱 Currently learning **React**, **Next.js**, and **Redux**
@@ -50,7 +52,6 @@
 I enjoy building things that people actually *see and use* – that’s why I love front-end development. Oh, and coffee helps too. A lot. ☕😉
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrrahman-alaa&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrrahman-alaa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdelrrahman_" target="blank"><img src="https://img.shields.io/twitter/follow/abdelrrahman_?logo=twitter&style=for-the-badge" alt="abdelrrahman_" /></a> </p>
 
