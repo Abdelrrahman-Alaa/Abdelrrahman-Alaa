@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me 
-- 🎓 Self-taught Front-End Developer <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdelrrahman-alaa&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrrahman-alaa" /> </p>
+- 🎓 Self-taught Front-End Developer
 - 🎯 Focused on building clean and modern web interfaces
 - 🌱 Currently learning **React**, **Next.js**, and **Redux**
 - 🎤 Also a professional **Voice Over Artist**
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdelrrahman-alaa&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrrahman-alaa" /> </p>
 </p>
 
 ---
