@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://abdelrahman-alaa.vercel.app/)
+- 💬 Ask me about **React.js, Next.js and Tailwind** 
 
-- 💬 Ask me about **React.js, Next.js and Tailwind**
+- 👨‍💻 All of my projects are available at [Portfolio](https://abdelrahman-alaa.vercel.app/)
 
 - 📫 You can reach me via [Email](mailto:Abdelrrahman.Alaa.Work@gmail.com)
 
