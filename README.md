@@ -35,9 +35,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrrahman-alaa&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrrahman-alaa&show_icons=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrrahman-alaa" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrrahman-alaa&layout=compact" alt="Top Languages" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrrahman-alaa&show_icons=true" alt="GitHub Stats" width="33%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrrahman-alaa" alt="GitHub Streak" width="33%"/>
 </p>
 
 ---
